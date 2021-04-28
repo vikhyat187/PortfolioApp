@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Vikhyat Bhatnagar</string>
+    <string name="skills_top">Android,Web developer</string>
+    <string name="about">Hi, my name is Vikhyat. I am a undergraduate in Computer Science from Malla Reddy College Of Engineering and Technology. Exploring things is my passion and also travelling. I do travel a lot.</string>
+    <string name="skills">"*Java <br/>
+        *C <br/>
+        *C++ <br/>
+        *HTML <br/>
+        *CSS <br/>
+        *JS <br/>
+        *Python <br/>
+        "</string>
+    <string name="work">"ChatApp using SocketIO<br/>
+        Banking app using Android<br/>
+        Mask detection using Machine Learning."</string>
+    <string name="contact">"Name : Vikhyat <br/>
+        Age : 20 <br/>
+        Phone no:934XXXXXXX <br/>
+        Mail: XXXXXXXXXXXXX@gmail.com"</string>
+</resources>
